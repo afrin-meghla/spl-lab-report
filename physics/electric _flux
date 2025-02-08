@@ -1,0 +1,15 @@
+Electric flux is the measure of the feild lines passing through a surface s.
+it is denoted by fai e and the unit of electric flux is WB.
+uniform:                             Nonuniform:                            
+fai e=E.S                            fai e=E.ds                             
+     =EScos thita                    Total Surface,
+     =EScos 0[thita=0]               fai e=int d fai
+     =ES                                  =int E.ds
+                                          =E int ds
+                                          =ES
+     WB=VM
+     surface integral(open):
+     fai e=int E.ds
+     closed surface:
+     fai=closed fai E.ds
+                

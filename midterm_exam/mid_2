@@ -1,0 +1,16 @@
+//write a c program to find the area and perimeter of a rectangle
+
+#include<stdio.h>
+int main(){
+    int a,b,area,p;
+
+    printf("Enter the value of two num :");
+    scanf("%d%d",&a,&b);
+
+    p=2*(a+b);
+    area=a*b;
+
+    printf("area=%d \n p=%d",area,p);
+
+    return 0;
+}

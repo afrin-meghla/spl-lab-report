@@ -10,7 +10,7 @@ int main(){
 
     s=a+b+c;
     v=s/2;
-    area=sqrt(s*(s-a)*(s-b)*(s-c));
+    area=sqrt(v*(v-a)*(v-b)*(v-c));
 
     printf("area=%f \n s=%f",area,s);
 
